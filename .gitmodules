@@ -1,3 +1,18 @@
 [submodule "You-Decide"]
 	path = You-Decide
 	url = https://github.com/hossamfawzy96/You-Decide
+[submodule "Virtual-Tourist"]
+	path = Virtual-Tourist
+	url = https://github.com/hossamfawzy96/Virtual-Tourist.git
+[submodule "On-The-Map"]
+	path = On-The-Map
+	url = https://github.com/hossamfawzy96/On-the-Map.git
+[submodule "MemeMe-2.0"]
+	path = MemeMe-2.0
+	url = https://github.com/hossamfawzy96/MemeMe-2.0.git
+[submodule "MemeMe-1.0"]
+	path = MemeMe-1.0
+	url = https://github.com/hossamfawzy96/MemeMe-1.0.git
+[submodule "Pitch-Perfect"]
+	path = Pitch-Perfect
+	url = https://github.com/hossamfawzy96/Pitch-Perfect.git
